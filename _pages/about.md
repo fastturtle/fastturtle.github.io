@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Staff Research Engineer at DeepMind in London. My research interests span reinforcement learning, representation learning, data-efficient learning, and multimodal modeling. I'm also interested in building tools that accelerate the pace of research in machine learning and AI.
 
-I am one of the pioneers of Distributed Reinforcement Learning at DeepMind and in the greater academic community. Our papers [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933) and [Distributed Distributional Deterministic Policy Gradients (D4PG)](https://arxiv.org/abs/1804.08617) helped to prove the effectiveness of using Distributed Reinforcement Learning. We developed and open-sourced [Acme](https://github.com/deepmind/acme), [Reverb](https://github.com/deepmind/reverb), and [Launchpad](https://github.com/deepmind/launchpad) to make Distributed RL easier.
+Among other contributions, I helped pioneer Distributed Reinforcement Learning at DeepMind, and in the greater academic community. Our papers [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933) and [Distributed Distributional Deterministic Policy Gradients (D4PG)](https://arxiv.org/abs/1804.08617) helped to prove the effectiveness of using Distributed Reinforcement Learning. We developed and open-sourced [Acme](https://github.com/deepmind/acme), [Reverb](https://github.com/deepmind/reverb), and [Launchpad](https://github.com/deepmind/launchpad) to make Distributed RL easier.
 
 More recently I have been working on multi-modal, multi-task, multi-embodiment generalist policies such as [Gato](https://www.deepmind.com/publications/a-generalist-agent). I'm excited to see where this work takes us next.
 
