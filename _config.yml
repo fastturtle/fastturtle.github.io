@@ -70,8 +70,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: fastturtle # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: gbarthmaron # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+linkedin_username: gabriel-barth-maron-7991241b # your LinkedIn user name
+scholar_userid: mr1r8tgAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -221,8 +221,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Barth-Maron
+  first_name: [Gabriel, G.]
 
   style: apa
   locale: en
