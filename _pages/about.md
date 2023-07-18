@@ -19,7 +19,9 @@ I am a Staff Research Engineer at Google DeepMind in London. My research interes
 
 Among other contributions, I pioneered Distributed Reinforcement Learning at DeepMind and in the greater academic community. Our papers [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933) and [Distributed Distributional Deterministic Policy Gradients (D4PG)](https://arxiv.org/abs/1804.08617) helped to prove the effectiveness of using Distributed Reinforcement Learning. We developed and open-sourced [Acme](https://github.com/deepmind/acme), [Reverb](https://github.com/deepmind/reverb), and [Launchpad](https://github.com/deepmind/launchpad) to make Distributed RL easier.
 
-Recently  I have been working on extending transformers to multiple modalities. One example of this is [Gato](https://www.deepmind.com/publications/a-generalist-agent), a multi-modal, multi-task, multi-embodiment generalist policy. I am also working on the next generation of [Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model) models.
+Recently  I have been working on extending transformers to multiple modalities.
+One example of this is [Gato](https://www.deepmind.com/publications/a-generalist-agent), a multi-modal, multi-task, multi-embodiment generalist policy.
+As part of Google DeepMind's [Gemini](https://www.wired.com/story/google-deepmind-demis-hassabis-chatgpt/) team I am working on the next generation of large-scale multimodal transformer models.
 
 I hold a BA in mathematical economics and a ScM in computer science from Brown University.
 
