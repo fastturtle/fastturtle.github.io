@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Staff Research Engineer at Google DeepMind in London. My research interests span reinforcement learning, data-efficient learning, multimodal modeling, and training large-scale models. I'm also interested in building tools that accelerate the pace of research in machine learning and AI.
+I am a Senior Staff Research Engineer at Google DeepMind in London where I co-lead [Veo](https://deepmind.google/technologies/veo/veo-2/). My research interests span Generative AI, multimodal modeling, reinforcement learning, and training large-scale models. I'm also interested in building tools that accelerate the pace of research in machine learning and AI.
 
 Among other contributions, I pioneered Distributed Reinforcement Learning at DeepMind and in the greater academic community. Our papers [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933) and [Distributed Distributional Deterministic Policy Gradients (D4PG)](https://arxiv.org/abs/1804.08617) helped to prove the effectiveness of using Distributed Reinforcement Learning. We developed and open-sourced [Acme](https://github.com/deepmind/acme), [Reverb](https://github.com/deepmind/reverb), and [Launchpad](https://github.com/deepmind/launchpad) to make Distributed RL easier.
 
