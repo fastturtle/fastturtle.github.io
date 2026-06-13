@@ -15,13 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Senior Staff Research Engineer at Google DeepMind in London where I co-lead [Veo](https://deepmind.google/technologies/veo/veo-2/). My research interests span Generative AI, multimodal modeling, reinforcement learning, and training large-scale models. I'm also interested in building tools that accelerate the pace of research in machine learning and AI.
+I am a Research Director at Google DeepMind in London where I co-lead [Gemini Omni](https://deepmind.google/models/gemini-omni/) [Veo]. Previously I co-lead [Veo](https://deepmind.google/technologies/veo/veo-2/). My research interests span Generative AI, multimodal modeling, reinforcement learning, and training large-scale models. I'm also interested in building tools that accelerate the pace of research in machine learning and AI.
 
 Among other contributions, I pioneered Distributed Reinforcement Learning at DeepMind and in the greater academic community. Our papers [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933) and [Distributed Distributional Deterministic Policy Gradients (D4PG)](https://arxiv.org/abs/1804.08617) helped to prove the effectiveness of using Distributed Reinforcement Learning. We developed and open-sourced [Acme](https://github.com/deepmind/acme), [Reverb](https://github.com/deepmind/reverb), and [Launchpad](https://github.com/deepmind/launchpad) to make Distributed RL easier.
-
-Recently  I have been working on extending transformers to multiple modalities.
-One example of this is [Gato](https://www.deepmind.com/publications/a-generalist-agent), a multi-modal, multi-task, multi-embodiment generalist policy.
-As part of Google DeepMind's [Gemini](https://www.wired.com/story/google-deepmind-demis-hassabis-chatgpt/) team I am working on the next generation of large-scale multimodal transformer models.
 
 I hold a BA in mathematical economics and a ScM in computer science from Brown University.
 
