@@ -31,8 +31,7 @@ social: true
 <div class="clearfix"></div>
 
 <section class="home-section" aria-labelledby="current-work">
-  <p class="section-kicker">Current work</p>
-  <h2 id="current-work">Building models that understand and create across modalities</h2>
+  <h2 id="current-work">Current work</h2>
   <div class="work-grid">
     <a class="work-card" href="https://deepmind.google/models/gemini-omni/">
       <span class="work-card-label">Gemini Omni</span>
@@ -50,8 +49,7 @@ social: true
 </section>
 
 <section class="career-summary" aria-labelledby="earlier-work">
-  <p class="section-kicker">Earlier work</p>
-  <h2 id="earlier-work">From distributed agents to multimodal foundation models</h2>
+  <h2 id="earlier-work">Earlier work</h2>
   <p>I helped build Gemini's multimodal foundations, led technical development for <a href="https://deepmind.google/blog/a-generalist-agent/">Gato</a>, and pioneered distributed reinforcement learning at DeepMind. That work also produced the open-source systems <a href="https://github.com/google-deepmind/acme">Acme</a>, <a href="https://github.com/google-deepmind/reverb">Reverb</a>, and <a href="https://github.com/google-deepmind/launchpad">Launchpad</a>.</p>
   <p>I hold a BA in Mathematical Economics and an ScM in Computer Science from Brown University.</p>
 </section>

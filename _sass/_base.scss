@@ -1027,3 +1027,126 @@ footer.sticky-bottom {
     }
   }
 }
+
+@media (min-width: 768px) {
+  body {
+    font-size: 1rem;
+  }
+
+  .container {
+    max-width: 880px;
+  }
+
+  .post-header {
+    margin-bottom: 1.8rem;
+
+    .post-title {
+      font-size: clamp(3rem, 4vw, 3.75rem);
+      letter-spacing: -0.05em;
+      line-height: 1;
+    }
+  }
+
+  .profile {
+    margin: 0.25rem 0 1.5rem 3rem;
+    max-width: 220px;
+
+    img {
+      border-radius: 8px !important;
+      box-shadow: none !important;
+    }
+  }
+
+  .home-intro {
+    min-height: 275px;
+
+    > p:not(.eyebrow):not(.hero-lede) {
+      font-size: 1rem;
+      max-width: 540px;
+    }
+  }
+
+  .hero-lede {
+    font-size: clamp(1.75rem, 2.15vw, 2rem);
+    line-height: 1.2;
+    max-width: 560px;
+  }
+
+  .hero-actions {
+    gap: 1.25rem;
+    margin-top: 1.35rem;
+  }
+
+  a.button,
+  a.button.button-primary {
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid var(--global-divider-color);
+    border-radius: 0;
+    color: var(--global-theme-color);
+    min-height: 0;
+    padding: 0 0 0.15rem;
+
+    &:hover {
+      border-color: var(--global-theme-color);
+      box-shadow: none;
+      color: var(--global-hover-color);
+      transform: none;
+    }
+  }
+
+  .home-section,
+  .career-summary,
+  .news,
+  .publications {
+    margin-top: 3.5rem;
+    padding-top: 2.5rem;
+  }
+
+  .home-section,
+  .career-summary {
+    > h2 {
+      font-size: 1.6rem;
+      margin-bottom: 1.35rem;
+    }
+  }
+
+  .work-grid {
+    gap: 2.25rem;
+  }
+
+  .work-card,
+  .research-grid .work-card {
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    border-top: 1px solid var(--global-divider-color);
+    box-shadow: none;
+    min-height: 0;
+    padding: 1.15rem 0 0;
+
+    &:hover {
+      border-color: var(--global-text-color-light);
+      box-shadow: none;
+      transform: none;
+    }
+
+    > strong {
+      font-size: 1.15rem;
+      margin-bottom: 0.65rem;
+    }
+  }
+
+  .work-card-link {
+    margin-top: 1rem;
+    padding-top: 0;
+  }
+
+  .career-summary {
+    max-width: 680px;
+
+    p:not(.section-kicker) {
+      font-size: 1rem;
+    }
+  }
+}
