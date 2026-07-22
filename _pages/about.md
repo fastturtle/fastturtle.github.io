@@ -23,7 +23,6 @@ social: true
   <p>I currently co-lead <a href="https://deepmind.google/models/gemini-omni/">Gemini Omni</a>, a model family that brings Gemini's reasoning together with generative media. Previously, I co-led <a href="https://deepmind.google/models/veo/">Veo</a> across its first three generations.</p>
   <div class="hero-actions">
     <a class="button button-primary" href="/cv/">Experience</a>
-    <a class="button" href="/publications/">Publications</a>
     <a class="button" href="https://scholar.google.com/citations?user=mr1r8tgAAAAJ&hl=en">Google Scholar</a>
   </div>
 </div>
