@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
-nav: false
-nav_order: 4
-cv_pdf: example_pdf.pdf
+title: experience
+description: A concise career overview. <a href="https://docs.google.com/document/d/1me3euQoSSqfNaEvtYbeALGdKbUQr3IiRM0MS7RWbVjI/edit">View the full résumé</a>.
+nav: true
+nav_order: 1
 ---

@@ -1,30 +1,15 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: open source
+description: Research infrastructure for distributed reinforcement learning and large-scale machine learning.
 nav: false
-nav_order: 3
 ---
 
-## GitHub users
-
-{% if site.data.repositories.github_users %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.html username=user %}
-  {% endfor %}
+<div class="work-grid research-grid">
+  <a class="work-card" href="https://github.com/google-deepmind/acme"><span class="work-card-label">Framework</span><strong>Acme</strong><span>A library of reinforcement-learning components and agents designed for research at multiple scales.</span></a>
+  <a class="work-card" href="https://github.com/google-deepmind/reverb"><span class="work-card-label">Data system</span><strong>Reverb</strong><span>An efficient, flexible data store and transport layer for machine-learning research.</span></a>
+  <a class="work-card" href="https://github.com/google-deepmind/launchpad"><span class="work-card-label">Distributed systems</span><strong>Launchpad</strong><span>A programming model for defining and launching distributed research programs.</span></a>
 </div>
-{% endif %}
 
----
-
-## GitHub Repositories
-
-{% if site.data.repositories.github_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.html repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
+See more on [GitHub](https://github.com/fastturtle).

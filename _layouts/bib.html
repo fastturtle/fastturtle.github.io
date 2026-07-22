@@ -2,6 +2,7 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
+        {% if entry.preview or entry.abbr -%}
         <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
@@ -21,9 +22,10 @@
           {%- endif -%}
         {%- endif -%}
         </div>
+        {%- endif %}
 
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="col-sm-8">
+        <div id="{{entry.key}}" class="{% if entry.preview or entry.abbr %}col-sm-10{% else %}col-12{% endif %}">
         {% if entry.type == "thesis" -%}
           {{reference}}
         {%- else %}

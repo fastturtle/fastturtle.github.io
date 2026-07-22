@@ -1,97 +1,68 @@
-- title: General Information
-  type: map
+- title: Experience
+  type: time_table
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - title: Research Director
+      institution: Google DeepMind · London, UK
+      year: 2015–present
+      description:
+        - "<strong>Gemini Omni · Co-lead (2025–present).</strong> Co-leading the delivery of the Gemini Omni model family, beginning with video generation and conversational editing."
+        - "<strong>Veo · Co-lead (2024–2025).</strong> Led strategy and execution across Veo 1, 2, and 3, including large-scale training, architecture, data, and evaluation."
+        - "<strong>Gemini · Core contributor (2022–2024).</strong> Helped establish multimodal image and video generation capabilities, vision infrastructure, and scaling analyses."
+        - "<strong>Gato · Tech lead and core contributor (2021–2022).</strong> Led technical development and built foundational data infrastructure for the multi-modal, multi-embodiment generalist agent."
+        - "<strong>Distributed reinforcement learning · Lead and core contributor (2017–2021).</strong> Pioneered actor–learner systems at scale and helped create Acme, Reverb, and Launchpad."
+
+    - title: Research Engineer
+      institution: dMetrics · New York, NY
+      year: 2014
+      description:
+        - Built natural-language processing and semantic-search systems for text understanding and research workflows.
+
+    - title: Data Analysis and Algorithms Engineer
+      institution: Thunder Wake · New York, NY
+      year: 2012–2013
+      description:
+        - Developed natural-language processing and search algorithms for AppSnatcher, an iOS App Store search engine.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: ScM, Computer Science
+      institution: Brown University · Providence, RI
+      year: 2013–2015
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Advised by Professor Stefanie Tellex.
+    - title: BA, Mathematical Economics
+      institution: Brown University · Providence, RI
+      year: 2005–2012
 
-- title: Experience
+- title: Selected Talks
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Multimodal Foundation Models
+      institution: Advanced Course on Data Science & Machine Learning
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Four-part lecture series.
+    - title: Multimodal Foundation Models
+      institution: International Conference on Machine Learning, Optimization and Data Science
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Keynote speaker.
+    - title: Gato and Scaling Generalist Agents
+      institution: NeurIPS workshops
+      year: 2022
       description:
+        - Invited speaker and panelist at the Foundation Models for Decision Making and Robot Learning workshops.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Open Source
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: <a href="https://github.com/google-deepmind/acme">Acme</a>
+      institution: Reinforcement-learning research framework
+      year: 2020
+    - title: <a href="https://github.com/google-deepmind/reverb">Reverb</a>
+      institution: Efficient data storage and transport for machine-learning research
+      year: 2021
+    - title: <a href="https://github.com/google-deepmind/launchpad">Launchpad</a>
+      institution: Programming model for distributed machine-learning research
+      year: 2021
