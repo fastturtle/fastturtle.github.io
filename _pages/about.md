@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
 description: Gabriel Barth-Maron is a Research Director at Google DeepMind working on multimodal generative models, including Gemini Omni and Veo.
