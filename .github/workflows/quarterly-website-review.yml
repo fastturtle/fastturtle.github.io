@@ -54,7 +54,6 @@ jobs:
             "- [ ] Update roles, projects, education, or talks in \`_data/cv.yml\`" \
             "- [ ] Check selected publications in \`_bibliography/papers.bib\`" \
             "- [ ] Refresh the homepage biography and current-work summary if needed" \
-            "- [ ] Review open \`external-mention\` issues from Google Alerts" \
             "- [ ] Build the site and spot-check external links" \
             "" \
             "_Created automatically by the quarterly website review workflow._")
